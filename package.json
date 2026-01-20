@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-real-estate-control",
+  "version": "0.1.0",
+  "description": "WebWaka real-estate suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
